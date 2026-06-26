@@ -1,0 +1,154 @@
+<svg viewBox="0 0 1000 1430" xmlns="http://www.w3.org/2000/svg" font-family="Georgia, 'Times New Roman', serif">
+  <defs>
+    <linearGradient id="headerGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1B3550"/>
+      <stop offset="100%" stop-color="#2C4A6B"/>
+    </linearGradient>
+    <linearGradient id="calloutGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2C4A6B"/>
+      <stop offset="100%" stop-color="#C1633D"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1000" height="1430" fill="#F6F3EC"/>
+
+  <!-- HEADER -->
+  <rect x="0" y="0" width="1000" height="150" fill="url(#headerGrad)"/>
+  <text x="500" y="58" text-anchor="middle" fill="#FFFFFF" font-size="30" font-weight="bold" letter-spacing="1">MODELO EDUCATIVO INSTITUCIONAL — USACH</text>
+  <text x="500" y="92" text-anchor="middle" fill="#E7E2D6" font-size="20" font-style="italic">Análisis comparativo: versión 2014 → versión 2026</text>
+  <text x="500" y="124" text-anchor="middle" fill="#BCC7D2" font-size="14" font-family="Helvetica, Arial, sans-serif">Universidad de Santiago de Chile · Vault de gestión documental ACREDITACION/Documentos · 26-06-2026</text>
+
+  <!-- COLUMN HEADERS -->
+  <rect x="40" y="190" width="420" height="58" rx="4" fill="#2C4A6B"/>
+  <text x="250" y="216" text-anchor="middle" fill="#FFFFFF" font-size="20" font-weight="bold" font-family="Helvetica, Arial, sans-serif">MEI 2014</text>
+  <text x="250" y="238" text-anchor="middle" fill="#D9E1E8" font-size="13" font-family="Helvetica, Arial, sans-serif">Versión actualizada · Aprobado nov. 2013</text>
+
+  <rect x="540" y="190" width="420" height="58" rx="4" fill="#C1633D"/>
+  <text x="750" y="216" text-anchor="middle" fill="#FFFFFF" font-size="20" font-weight="bold" font-family="Helvetica, Arial, sans-serif">MEI 2026</text>
+  <text x="750" y="238" text-anchor="middle" fill="#FCE9DD" font-size="13" font-family="Helvetica, Arial, sans-serif">Comisión de Revisión · Borrador marzo 2026</text>
+
+  <!-- vertical connector -->
+  <line x1="500" y1="270" x2="500" y2="860" stroke="#B8AE96" stroke-width="2" stroke-dasharray="2,6"/>
+
+  <!-- ROW 1 -->
+  <g font-family="Helvetica, Arial, sans-serif">
+    <rect x="40" y="270" width="420" height="100" fill="#FFFFFF" stroke="#E3DED2"/>
+    <rect x="540" y="270" width="420" height="100" fill="#FFFFFF" stroke="#E3DED2"/>
+    <text x="60" y="294" fill="#8C6A1F" font-size="13" font-weight="bold" letter-spacing="0.5">ESTADO DEL DOCUMENTO</text>
+    <text x="60" y="320" fill="#20242B" font-size="15">Aprobado y publicado</text>
+    <text x="60" y="342" fill="#20242B" font-size="15">(Acuerdo N°38/2013)</text>
+    <text x="560" y="294" fill="#8C6A1F" font-size="13" font-weight="bold" letter-spacing="0.5">ESTADO DEL DOCUMENTO</text>
+    <text x="560" y="320" fill="#20242B" font-size="15">Borrador — 10 de 11 comentarios</text>
+    <text x="560" y="342" fill="#20242B" font-size="15">de revisión sin resolver</text>
+  </g>
+
+  <!-- ROW 2 -->
+  <g font-family="Helvetica, Arial, sans-serif">
+    <rect x="40" y="380" width="420" height="100" fill="#FBF9F5" stroke="#E3DED2"/>
+    <rect x="540" y="380" width="420" height="100" fill="#FBF9F5" stroke="#E3DED2"/>
+    <text x="60" y="404" fill="#8C6A1F" font-size="13" font-weight="bold" letter-spacing="0.5">ESTRUCTURA</text>
+    <text x="60" y="430" fill="#20242B" font-size="15">5 componentes — eje articulador:</text>
+    <text x="60" y="452" fill="#20242B" font-size="15">Formación del Estudiante</text>
+    <text x="560" y="404" fill="#8C6A1F" font-size="13" font-weight="bold" letter-spacing="0.5">ESTRUCTURA</text>
+    <text x="560" y="430" fill="#20242B" font-size="15">4 componentes + 5 pilares</text>
+    <text x="560" y="452" fill="#20242B" font-size="15">transversales</text>
+  </g>
+
+  <!-- ROW 3 -->
+  <g font-family="Helvetica, Arial, sans-serif">
+    <rect x="40" y="490" width="420" height="100" fill="#FFFFFF" stroke="#E3DED2"/>
+    <rect x="540" y="490" width="420" height="100" fill="#FFFFFF" stroke="#E3DED2"/>
+    <text x="60" y="514" fill="#8C6A1F" font-size="13" font-weight="bold" letter-spacing="0.5">FUNDAMENTO TEÓRICO</text>
+    <text x="60" y="540" fill="#20242B" font-size="15">No declara corriente teórica</text>
+    <text x="60" y="562" fill="#20242B" font-size="15">explícita</text>
+    <text x="560" y="514" fill="#8C6A1F" font-size="13" font-weight="bold" letter-spacing="0.5">FUNDAMENTO TEÓRICO</text>
+    <text x="560" y="540" fill="#20242B" font-size="15">Constructivismo social</text>
+    <text x="560" y="562" fill="#20242B" font-size="15">(Vygotsky, Coll, Lave y Wenger...)</text>
+  </g>
+
+  <!-- ROW 4 -->
+  <g font-family="Helvetica, Arial, sans-serif">
+    <rect x="40" y="600" width="420" height="100" fill="#FBF9F5" stroke="#E3DED2"/>
+    <rect x="540" y="600" width="420" height="100" fill="#FBF9F5" stroke="#E3DED2"/>
+    <text x="60" y="624" fill="#8C6A1F" font-size="13" font-weight="bold" letter-spacing="0.5">BASE EMPÍRICA</text>
+    <text x="60" y="650" fill="#20242B" font-size="15">No documentada en el</text>
+    <text x="60" y="672" fill="#20242B" font-size="15">cuerpo del texto</text>
+    <text x="560" y="624" fill="#8C6A1F" font-size="13" font-weight="bold" letter-spacing="0.5">BASE EMPÍRICA</text>
+    <text x="560" y="650" fill="#20242B" font-size="15">Encuesta a 2.101 personas +</text>
+    <text x="560" y="672" fill="#20242B" font-size="15">grupos focales (8 ámbitos)</text>
+  </g>
+
+  <!-- ROW 5 -->
+  <g font-family="Helvetica, Arial, sans-serif">
+    <rect x="40" y="710" width="420" height="100" fill="#FFFFFF" stroke="#E3DED2"/>
+    <rect x="540" y="710" width="420" height="100" fill="#FFFFFF" stroke="#E3DED2"/>
+    <text x="60" y="734" fill="#8C6A1F" font-size="13" font-weight="bold" letter-spacing="0.5">ARTICULACIÓN INSTITUCIONAL</text>
+    <text x="60" y="760" fill="#20242B" font-size="15">Sin vínculo declarado a un</text>
+    <text x="60" y="782" fill="#20242B" font-size="15">plan de desarrollo institucional</text>
+    <text x="560" y="734" fill="#8C6A1F" font-size="13" font-weight="bold" letter-spacing="0.5">ARTICULACIÓN INSTITUCIONAL</text>
+    <text x="560" y="760" fill="#20242B" font-size="15">Articulado explícitamente con</text>
+    <text x="560" y="782" fill="#20242B" font-size="15">el PLADEI 2025-2030</text>
+  </g>
+
+  <!-- CALLOUT: hallazgo clave -->
+  <rect x="40" y="845" width="920" height="95" rx="6" fill="url(#calloutGrad)"/>
+  <text x="60" y="872" fill="#FFE9B8" font-size="13" font-weight="bold" font-family="Helvetica, Arial, sans-serif" letter-spacing="0.5">HALLAZGO CLAVE</text>
+  <text x="60" y="897" fill="#FFFFFF" font-size="15" font-family="Helvetica, Arial, sans-serif">"Relación con el Entorno" (componente autónomo en 2014) no desaparece: se redistribuye como</text>
+  <text x="60" y="919" fill="#FFFFFF" font-size="15" font-family="Helvetica, Arial, sans-serif">pilar transversal "Territorio y Vinculación con el Medio" (2026) — interpretación del analista.</text>
+
+  <!-- CONCORDANCIA -->
+  <text x="500" y="985" text-anchor="middle" fill="#1B3550" font-size="19" font-weight="bold" font-family="Helvetica, Arial, sans-serif">CONCORDANCIA ESTRUCTURAL ENTRE AMBOS MODELOS</text>
+  <text x="500" y="1007" text-anchor="middle" fill="#6B6354" font-size="12" font-family="Helvetica, Arial, sans-serif" font-style="italic">Estimación analítica sobre las 12 categorías del mapeo estructural — no es una cifra reportada por los documentos</text>
+
+  <!-- stacked bar: total width 920 from x=40 to x=960; 42% / 17% / 42% -->
+  <rect x="40" y="1030" width="386.4" height="46" fill="#2C4A6B"/>
+  <rect x="426.4" y="1030" width="156.4" height="46" fill="#A39C8B"/>
+  <rect x="582.8" y="1030" width="377.2" height="46" fill="#C1633D"/>
+  <text x="233.2" y="1059" text-anchor="middle" fill="#FFFFFF" font-size="18" font-weight="bold" font-family="Helvetica, Arial, sans-serif">42%</text>
+  <text x="504.6" y="1059" text-anchor="middle" fill="#FFFFFF" font-size="18" font-weight="bold" font-family="Helvetica, Arial, sans-serif">17%</text>
+  <text x="771.4" y="1059" text-anchor="middle" fill="#FFFFFF" font-size="18" font-weight="bold" font-family="Helvetica, Arial, sans-serif">42%</text>
+
+  <!-- legend -->
+  <g font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#20242B">
+    <rect x="60" y="1095" width="16" height="16" fill="#2C4A6B"/>
+    <text x="84" y="1108">Concordancia directa</text>
+    <rect x="280" y="1095" width="16" height="16" fill="#A39C8B"/>
+    <text x="304" y="1108">Concordancia parcial</text>
+    <rect x="495" y="1095" width="16" height="16" fill="#C1633D"/>
+    <text x="519" y="1108">Novedad sin equivalente en 2014</text>
+  </g>
+
+  <!-- ASPECTOS COMUNES / DIVERGENCIAS -->
+  <rect x="40" y="1140" width="445" height="220" rx="6" fill="#FFFFFF" stroke="#E3DED2"/>
+  <rect x="515" y="1140" width="445" height="220" rx="6" fill="#FFFFFF" stroke="#E3DED2"/>
+
+  <rect x="40" y="1140" width="445" height="38" rx="6" fill="#2C4A6B"/>
+  <text x="262" y="1165" text-anchor="middle" fill="#FFFFFF" font-size="15" font-weight="bold" font-family="Helvetica, Arial, sans-serif">ASPECTOS COMUNES</text>
+
+  <rect x="515" y="1140" width="445" height="38" rx="6" fill="#C1633D"/>
+  <text x="737" y="1165" text-anchor="middle" fill="#FFFFFF" font-size="15" font-weight="bold" font-family="Helvetica, Arial, sans-serif">DIVERGENCIAS CLAVE</text>
+
+  <g font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#20242B">
+    <text x="58" y="1198">• Sello institucional citado textualmente</text>
+    <text x="68" y="1215">("MEI, 2014; pág. 22")</text>
+    <text x="58" y="1240">• Sistema de créditos SCT-Chile idéntico</text>
+    <text x="68" y="1257">(1 crédito = 30 horas cronológicas)</text>
+    <text x="58" y="1282">• Vinculación con el entorno/territorio</text>
+    <text x="68" y="1299">se mantiene como preocupación</text>
+    <text x="58" y="1324">• Investigación e innovación presente en</text>
+    <text x="68" y="1341">ambos (sube de subcomponente a pilar)</text>
+
+    <text x="533" y="1198">• Fundamento teórico y diagnóstico</text>
+    <text x="543" y="1215">empírico — ausentes en 2014</text>
+    <text x="533" y="1240">• Articulación explícita con el PLADEI</text>
+    <text x="543" y="1257">2025-2030 — ausente en 2014</text>
+    <text x="533" y="1282">• Inteligencia Artificial, sustentabilidad</text>
+    <text x="543" y="1299">ambiental y accesibilidad universal</text>
+    <text x="533" y="1324">• 2014: documento final y aprobado /</text>
+    <text x="543" y="1341">2026: borrador en revisión activa</text>
+  </g>
+
+  <!-- FOOTER -->
+  <rect x="0" y="1390" width="1000" height="40" fill="#2C2620"/>
+  <text x="500" y="1415" text-anchor="middle" fill="#D8D2C4" font-size="12" font-family="Helvetica, Arial, sans-serif">Fuente: ficha "Comparativo - Modelo Educativo Institucional 2014 vs 2026" · ACREDITACION/Documentos · USACH</text>
+</svg>
